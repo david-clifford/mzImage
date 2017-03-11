@@ -1,0 +1,2 @@
+useDynLib(mzImage)
+exportPattern(BGcorrect, computeMNF, computeNoise, display, plotMNF, plotSNR, plotTIC, SNR, SNRobj, TIC, LapackGenEigen, nearestNeighbourMean, dilation, peaks, readRaw, readOne, readAll, ReadSet, Patch, toMatrix, nearestNeighbourQuadratic)
