@@ -8,6 +8,6 @@ Maintainer: David Clifford <David.Clifford@csiro.au>
 Depends: colorspace, MASS, splines
 suggests: caMassClass
 Description: The main purpose of this package is to compute the Minimum Noise Fraction (MNF) transform of IMS data
-License: GPL-2
+License: GPL-2  | file LICENSE
 LazyLoad: yes
 Packaged: 2010-10-26 03:26:39 UTC; sto188
